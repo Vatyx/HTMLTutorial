@@ -1,0 +1,27 @@
+body {
+	background-color: #2ecc71;
+	font-family: 'Raleway';
+}
+
+div#first{
+	color: green;
+	background-color: #222222;
+	border: 2px solid blue;
+	margin: 100px;
+}
+
+div {
+	font-family: 'Raleway';
+}
+
+.bluetext {
+	color: blue;
+}
+
+#second {
+	color: red;
+}
+
+custom {
+	color: purple;
+}
